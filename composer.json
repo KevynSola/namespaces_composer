@@ -1,0 +1,16 @@
+{
+    "name": "kevynsola/namespaces_composer",
+    "description": "course of namespace and composer",
+    "autoload": {
+        "psr-4": {
+            "kevynsola\\namespaces_composer\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kevyn SOLA",
+            "email": "kevyn.sola@gmail.com"
+        }
+    ],
+    "require": {}
+}
