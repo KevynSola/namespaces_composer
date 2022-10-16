@@ -3,7 +3,7 @@
     "description": "course of namespace and composer",
     "autoload": {
         "psr-4": {
-            "kevynsola\\namespaces_composer\\App\\": "src/App/"
+            "App\\": "src/"
         }
     },
     "authors": [
